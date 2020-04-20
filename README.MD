@@ -23,3 +23,8 @@ esto es otro texto de dividido
 # Citas
 Esto es un texto referente a una cita que pondremos debajo:
 esto es otra cita
+
+#tablas
+|Nombre|Apellido|Documento|
+|------|--------|---------|
+|Maxi  |Burogs  |245464633|

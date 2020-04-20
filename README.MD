@@ -19,3 +19,7 @@ esto es un texto que sera dividido.
 
 ----
 esto es otro texto de dividido
+
+# Citas
+Esto es un texto referente a una cita que pondremos debajo:
+esto es otra cita

@@ -35,3 +35,6 @@ este es un hola
 definitivamente es un gran curso
 
 estoy bien desvelado haciendo este XD
+
+# formatos enfasis
+-formato italica
